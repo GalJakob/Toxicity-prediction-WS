@@ -14,5 +14,5 @@ The project is built upon improved libraries of pre-trained machine learning mod
 - [SciPy](https://www.scipy.org/)
 - [rdkit](https://www.rdkit.org/)
 
-It is highly recommended to use GPU.
+It is highly recommended to use a GPU.
 ## Getting Started
