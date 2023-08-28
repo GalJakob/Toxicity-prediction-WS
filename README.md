@@ -29,10 +29,34 @@ the datasets are splitted into 3 categories:
 - test datasets
 
 the train and test datasets are splitted 80/20 corrrespondingly. furthermore, in the train dataset folder their are files which was augmented (the operation of adding artifical data by a generator by code) and named after that. This was a part of balancing the data and essential part of the project. 
+
+as for the models, they are divided into 3 main categories:
+- models based on language structure: chemBerta and RNN.
+- models based on graphs: GNN + molclr.
+- models based on vector represantaion : DNN and XGB.
+  
 ### chemBerta
 the full tutorial of chemBerta is [here](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learning_With_ChemBERTa_Transformers.ipynb) .
 
 to initiate the project you need 
+
+### RNN
+somthing about this.....
+
 ### GNN
+somthing about this.....
+
+### Molclr
+somthing about this.....
+
+### DNN
+somthing about this.....
+
+### XGB
+somthing about this.....
+
+
+
+
 
   
