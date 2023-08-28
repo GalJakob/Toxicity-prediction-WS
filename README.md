@@ -1,6 +1,6 @@
 ﻿# Toxicity prediction🧪
 
-The project is built upon improved libraries of pre-trained machine learning models from various fields.
+The project is built upon libraries of pre-trained machine learning models from various fields.
 
 ### Table of contents:
 
