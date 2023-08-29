@@ -46,7 +46,9 @@ To initiate the project you need to follow the commentes in the first block of c
 
 In addition,if you want to search for hyper parameters(with setting the corresponding variable in code to True) you need to create an account at the site of WANDB library: https://wandb.ai/site.
 
-For your convenience, the full tutorial of chemBerta is [here](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learning_With_ChemBERTa_Transformers.ipynb) .
+For your convenience, the full tutorial of chemBerta is [here](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learning_With_ChemBERTa_Transformers.ipynb).
+In addition, because chemBerta utilizes simpleTransformers library, the wandb, that relies on it, outputs hyper paramaters data which was used in order to improve model.
+the reports can be found here:https://wandb.ai/toxicityprediction/chemBerta/reportlist
 
 
 
