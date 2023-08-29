@@ -36,9 +36,13 @@ as for the models, they are divided into 3 main categories:
 - models based on vector represantaion : DNN and XGB.
   
 ### chemBerta
-the full tutorial of chemBerta is [here](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learning_With_ChemBERTa_Transformers.ipynb) .
+To initiate the project you need to follow the commentes in the first block of code.
 
-to initiate the project you need 
+In addition,if you want to search for hyper parameters(with setting the corresponding variable in code to True) you need to create an account at the site of WANDB library: https://wandb.ai/site.
+
+For your convenience, the full tutorial of chemBerta is [here](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learning_With_ChemBERTa_Transformers.ipynb) .
+
+
 
 ### RNN
 somthing about this.....
