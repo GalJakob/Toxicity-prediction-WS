@@ -54,7 +54,7 @@ For your convenience, the full tutorial of chemBerta is [here](https://github.co
 somthing about this.....
 
 ### GNN
-Instructions in comments.
+Instructions in comments in code.
 
 ### Molclr
 somthing about this.....
