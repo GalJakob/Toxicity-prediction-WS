@@ -30,6 +30,12 @@ the datasets are splitted into 3 categories:
 
 the train and test datasets are splitted 80/20 corrrespondingly. furthermore, in the train dataset folder their are files which was augmented (the operation of adding artifical data by a generator by code) and named after that. This was a part of balancing the data and essential part of the project. 
 
+Also,if you want to save/load models, there is an option for that with google drive since the models are heavy and hence cannot be saved/loaded to github:
+
+1.request premission here: https://drive.google.com/drive/folders/1UWhWA4_phu5alMNFuwgJpHsX9pzKMKYw?usp=sharing
+
+2.copy this folder to your google drive.
+
 as for the models, they are divided into 3 main categories:
 - models based on language structure: chemBerta and RNN.
 - models based on graphs: GNN + molclr.
