@@ -60,10 +60,10 @@ Instructions in comments in code.
 somthing about this.....
 
 ### DNN
-somthing about this.....
+Instructions in comments in code.
 
 ### XGB
-somthing about this.....
+Instructions in comments in code.
 
 
 
