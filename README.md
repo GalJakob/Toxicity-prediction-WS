@@ -38,7 +38,7 @@ Also,if you want to save/load models, there is an option for that with google dr
 
 as for the models, they are divided into 3 main categories:
 - models based on language structure: chemBerta and RNN.
-- models based on graphs: GNN + molclr.
+- models based on graphs: GCN + molclr.
 - models based on vector represantaion : DNN and XGB.
   
 ### chemBerta
@@ -55,8 +55,8 @@ the reports can be found here:https://wandb.ai/toxicityprediction/chemBerta/repo
 ### RNN
 Instructions in comments in code.
 
-### GNN
-Instructions in comments in code.
+### GCN
+Here you need to download(or clone via git) the GCN folder and install the required packages in code and the general packages as mentioned above.
 
 ### Molclr
 We used the Molclr documentation which can be found [here](https://github.com/yuyangw/MolCLR).
