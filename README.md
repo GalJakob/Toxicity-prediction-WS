@@ -53,7 +53,7 @@ the reports can be found here:https://wandb.ai/toxicityprediction/chemBerta/repo
 
 
 ### RNN
-somthing about this.....
+Instructions in comments in code.
 
 ### GNN
 Instructions in comments in code.
