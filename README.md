@@ -28,7 +28,7 @@ the datasets are splitted into 3 categories:
 - train datasets
 - test datasets
 
-the train and test datasets are splitted 80/20 corrrespondingly. furthermore, in the train dataset folder their are files which was augmented (the operation of adding artifical data by a generator by code) and named after that. This was a part of balancing the data and essential part of the project. 
+the train,test,and validation datasets are splitted 80/10/10 corrrespondingly. furthermore, in the train dataset folder their are files which was augmented (the operation of adding artifical data by a generator by code) and named after that. This was a part of balancing the data and essential part of the project. 
 
 Also,if you want to save/load models, there is an option for that with google drive since the models are heavy and hence cannot be saved/loaded to github:
 
