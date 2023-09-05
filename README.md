@@ -59,7 +59,9 @@ Instructions in comments in code.
 Instructions in comments in code.
 
 ### Molclr
-somthing about this.....
+We used the Molclr documentation which can be found [here](https://github.com/yuyangw/MolCLR).
+This documentation enables you to fine-tune the pretrained model to a specific task(our datasets) which is what we did.
+further writing in this code is futile(except our own datasets) because we assume that it's performence is at it's peak and any other changes we might have done might have damaged performence. hence, in order to initiate the code you need to follow the documentation mentioned above.
 
 ### DNN
 Instructions in comments in code.
